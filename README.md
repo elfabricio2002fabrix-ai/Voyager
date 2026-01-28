@@ -60,25 +60,6 @@ Voyager es una aplicación web completa que revoluciona la forma de planificar v
 
 ---
 
-## 🚀 Demo
-
-🌐 **[Ver Demo en Vivo](#)** _(próximamente)_
-
-### Capturas de Pantalla
-
-<table>
-  <tr>
-    <td><img src="https://via.placeholder.com/400x250/2b8cee/ffffff?text=Home" alt="Home"/></td>
-    <td><img src="https://via.placeholder.com/400x250/8a2be2/ffffff?text=Discover" alt="Discover"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://via.placeholder.com/400x250/1a5fb4/ffffff?text=Map" alt="Map"/></td>
-    <td><img src="https://via.placeholder.com/400x250/2b8cee/ffffff?text=Payment" alt="Payment"/></td>
-  </tr>
-</table>
-
----
-
 ## ⚡ Inicio Rápido
 
 ```bash
